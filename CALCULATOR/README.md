@@ -5,7 +5,7 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 ## Demo Check out the live demo on
 
-[CodePen](https://codepen.io/Hunterdii/pen/jOJmbQv). 
+Watch the live demo of [My Calculator](https://bhavy-upreti-calculator.netlify.app/).
 
 ## Preview
 
@@ -22,7 +22,7 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 1. Clone the repository to your local machine.
    ```
-   bash git clone https://github.com/Hunterdii/Task3 Calculator/dist.git
+   bash git clone https://github.com/bhavyup/CALCULATOR/dist.git
    ```
 2. Open the `index.html` file in your web browser to use the calculator.
  
@@ -41,7 +41,7 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 # Feel free to explore, use, and contribute to this calculator application.
 
-If you have any suggestions or find any issues, please create an [issue](https://github.com/Hunterdii/issues).
+If you have any suggestions or find any issues, please create an [issue](https://github.com/bhavyup/CODSOFT/issues).
   
 ⭐ Star this repository if you find it helpful or intriguing! ⭐
  
