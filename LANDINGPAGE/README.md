@@ -19,7 +19,7 @@ Check out the live demo of [My Landing Page](https://bhavy-upreti-landing-page.n
 ## How to Use
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Codesoft-Tasks/Task1Landing page.git
+   git clone https://github.com/CODSOFT/LANDINGPAGE.git
    ```
 
 2. Open the `index.html` file in your preferred web browser to access the Cars Landing Page.
