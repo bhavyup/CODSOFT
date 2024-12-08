@@ -1,4 +1,4 @@
-# 🚗 Bikes Landing Page
+# 🏍️ Bikes Landing Page
 
 Welcome to the Bikes Landing Page repository! This project features a dynamic webpage dedicated to showcasing various luxury bike models. Explore the sleek design and smooth transitions as you navigate through different bike sections.
 
