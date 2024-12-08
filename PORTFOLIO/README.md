@@ -27,7 +27,7 @@ Visit my live portfolio website at [My Portfolio URL](https://bhavy-upreti-port-
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/bhavyup/PORTFOLIO.git
+   git clone https://github.com/bhavyup/CODSOFT.git
    ```
 
 2. Open the `index.html` file in your web browser to explore the portfolio.
@@ -60,7 +60,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Icons: [Ionicons](https://ionicons.com/)
 - Background Images: [Unsplash](https://unsplash.com/)
 
-Feel free to explore, use, and contribute to this portfolio website. If you have any suggestions or find any issues, please create an [issue](https://github.com/bhavyup/PORTFOLIO/issues).
+Feel free to explore, use, and contribute to this portfolio website. If you have any suggestions or find any issues, please create an [issue](https://github.com/bhavyup/CODSOFT/issues).
 
 ⭐ Star this repository if you find it helpful or inspiring! ⭐
 ```
