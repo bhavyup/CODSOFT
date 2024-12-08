@@ -4,7 +4,8 @@ This repository contains the source code for my personal portfolio website. It s
 
 ## Preview
 
-![Portfolio Preview](./path/to/your/screenshot.png)
+![My Portfolio](https://github.com/user-attachments/assets/bebed12e-6447-4759-bf90-21d92eb2cd86)
+
 
 ## Features
 
@@ -20,7 +21,7 @@ This repository contains the source code for my personal portfolio website. It s
 
 ## Live Website
 
-Visit my live portfolio website at [Your Portfolio URL](https://www.yourportfolio.com).
+Visit my live portfolio website at [My Portfolio URL](https://bhavy-upreti-port-folio.netlify.app/).
 
 ## How to Use
 
