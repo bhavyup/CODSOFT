@@ -1,18 +1,19 @@
-# 🚗 Cars Landing Page
+# 🚗 Bikes Landing Page
 
-Welcome to the Cars Landing Page repository! This project features a dynamic webpage dedicated to showcasing various luxury car models. Explore the sleek design and smooth transitions as you navigate through different car sections.
+Welcome to the Bikes Landing Page repository! This project features a dynamic webpage dedicated to showcasing various luxury bike models. Explore the sleek design and smooth transitions as you navigate through different bike sections.
 
 ## Demo
 
-Check out the live demo on [CodePen](https://codepen.io/Hunterdii/pen/XWGRXZd).
+Check out the live demo of [My Landing Page](https://bhavy-upreti-landing-page.netlify.app/).
 
 ## Preview
 
-![Cars Landing Page Preview](https://github.com/Hunterdii/Codesoft-Tasks/assets/124852522/5e508f0b-2760-427a-91f4-982839d41bc6)
+![Screenshot 2024-12-09 000743](https://github.com/user-attachments/assets/37340e46-8f51-417d-ba42-30510564b66c)
+
 
 ## Features
-- **Interactive Navigation:** Effortlessly explore different car models with a user-friendly navigation menu.
-- **Real-time Model Updates:** Click on a car model, and experience real-time updates to the page, including background images and model information.
+- **Interactive Navigation:** Effortlessly explore different bike models with a user-friendly navigation menu.
+- **Real-time Model Updates:** Click on a bike model, and experience real-time updates to the page, including background images and model information.
 - **Reserve Now Button:** Ready to make a move? Utilize the "Reserve Now" button for a seamless reservation process.
 
 ## How to Use
@@ -23,20 +24,20 @@ Check out the live demo on [CodePen](https://codepen.io/Hunterdii/pen/XWGRXZd).
 
 2. Open the `index.html` file in your preferred web browser to access the Cars Landing Page.
 
-## Car Models
-- 🚗 **PORSCHE:** Experience the speed with a background image that matches the thrill.
-- 🏎️ **LAMBORGHINI AVENTADOR S:** Feel the power with a dynamic background showcasing the Lamborghini Aventador S.
-- 🚀 **ASTON-MARTIN:** Coming Soon! Exciting updates for Aston Martin enthusiasts.
-- 🏎️ **McLAREN 570S:** Dive into the world of McLaren with a background that captures the essence of speed.
-- 🚙 **AUDI:** Cruise through the Audi section, complete with an aesthetic background.
+## Bike Models
+- 🚗 **KAWASAKI:** Experience the speed with a background image that matches the thrill.
+- 🏎️ **DUCATI:** Feel the power with a dynamic background showcasing the Ducati Panigale V4R.
+- 🚀 **SUZUKI:** Coming Soon! Exciting updates for Suzuki enthusiasts.
+- 🏎️ **HONDA:** Dive into the world of Honda with a background that captures the essence of speed.
+- 🚙 **APRILIA:** Cruise through the Aprilia section, complete with an aesthetic background.
 - 🚗 **BMW:** Discover the BMW lineup, accompanied by a captivating background image.
-- 🛥️ **MERCEDES:** Explore the luxury of Mercedes, featuring a background that complements the sophistication.
+- 🛥️ **YAMAHA:** Explore the luxury of Yamaha, featuring a background that complements the sophistication.
 
 ## Model Information
-- **G-WAGON:**
-  - 0-60 mph: 1.7 seconds
-  - Top Speed: 180 mph
-  - Max Range: 496 miles
+- **MV AGUSTA F4 RC:**
+  - 0-60 mph: 3.1 seconds
+  - Top Speed: 188 mph
+  - Max Range: 155 miles
 
 ## Contributions
 Feel free to contribute to the project by following these steps:
@@ -52,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 - **Background Images:** Unsplash contributors
 - **Color Theme:** Black, Gold, and White
 
-Explore, enjoy, and share your love for luxury cars through this Cars Landing Page! If you encounter any issues or have suggestions, please create an [issue](https://github.com/your-username/Hunterdii/issues). 
+Explore, enjoy, and share your love for luxury cars through this Bikes Landing Page! If you encounter any issues or have suggestions, please create an [issue](https://github.com/your-username/bhavyup/issues). 
 
 
 ⭐ Star this repository if you find it intriguing! ⭐
