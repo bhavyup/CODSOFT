@@ -19,7 +19,7 @@ Check out the live demo of [My Landing Page](https://bhavy-upreti-landing-page.n
 ## How to Use
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/CODSOFT/LANDINGPAGE.git
+   git clone https://github.com/bhavyup/CODSOFT.git
    ```
 
 2. Open the `index.html` file in your preferred web browser to access the Cars Landing Page.
@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 - **Background Images:** Unsplash contributors
 - **Color Theme:** Black, Gold, and White
 
-Explore, enjoy, and share your love for luxury cars through this Bikes Landing Page! If you encounter any issues or have suggestions, please create an [issue](https://github.com/your-username/bhavyup/issues). 
+Explore, enjoy, and share your love for luxury cars through this Bikes Landing Page! If you encounter any issues or have suggestions, please create an [issue](https://github.com/bhavyup/CODSOFT/issues). 
 
 
 ⭐ Star this repository if you find it intriguing! ⭐
